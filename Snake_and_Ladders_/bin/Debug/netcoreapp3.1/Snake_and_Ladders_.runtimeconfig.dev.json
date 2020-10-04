@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Prajval\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Prajval\\.nuget\\packages"
+    ]
+  }
+}
